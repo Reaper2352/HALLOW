@@ -1,0 +1,12 @@
+{
+  "name": "HALLOW",
+  "short_name": "HALLOW",
+  "description": "Choose your operative. Clear the night.",
+  "theme_color": "#0a0a0b",
+  "background_color": "#0a0a0b",
+  "display": "standalone",
+  "start_url": "/",
+  "lang": "en",
+  "categories": ["games", "entertainment"],
+  "tagline": "Choose your operative."
+}
