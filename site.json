@@ -1,12 +1,10 @@
 {
   "name": "HALLOW",
   "short_name": "HALLOW",
-  "description": "Choose your operative. Clear the night.",
+  "description": "Night Cycle. Check in. Clear the house. Hold the line.",
   "theme_color": "#0a0a0b",
   "background_color": "#0a0a0b",
   "display": "standalone",
-  "start_url": "/",
-  "lang": "en",
-  "categories": ["games", "entertainment"],
-  "tagline": "Choose your operative."
+  "start_url": "./index.html",
+  "lang": "en"
 }
