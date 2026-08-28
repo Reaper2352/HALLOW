@@ -1,0 +1,5 @@
+h1.page,h2.page{font-family:"Cormorant Garamond",serif;font-weight:500;font-size:clamp(36px,6vw,56px)}
+.list{display:flex;flex-direction:column;gap:8px;margin-top:18px}
+.rowline{text-align:left;width:100%;background:#141518;border:1px solid rgba(154,163,173,.18);color:#e8eaed;padding:12px 14px;font-family:"IBM Plex Mono",monospace;font-size:11px;letter-spacing:.08em;cursor:pointer}
+.rowline.dim{color:#5c646e;cursor:default}
+#notes{margin-top:18px}
